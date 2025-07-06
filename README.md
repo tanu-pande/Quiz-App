@@ -27,8 +27,11 @@ Console (Terminal)
 - Displays score and correct answers at the end
 
 🚀 How to Run
+
 Make sure Java is installed (java -version).
+
 Save both QuizApp.java and Question.java in the same folder.
+
 Open terminal/command prompt.
 
 Compile and run:
