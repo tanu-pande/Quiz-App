@@ -30,10 +30,11 @@ Save both QuizApp.java and Question.java in the same folder.
 
 Open terminal/command prompt.
 
-🧠 Sample Outputs
-![image_alt]()
-
 Compile and run:
 
 javac QuizApp.java
 java QuizApp
+
+🧠 Sample Outputs
+![image_alt](https://github.com/tanu-pande/Quiz-App/blob/e80baf33e822b5b1ac601654c8a1dab33659b456/Screenshot%202025-07-06%20163233.png)
+![image_alt]()
