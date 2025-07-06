@@ -4,12 +4,14 @@
 A simple console-based quiz application that tests users with multiple-choice questions and gives a score at the end.
 
 🛠️ Tools Used
+
 Java
+
 Console (Terminal)
 
 📂 Project Structure
-
 /QuizApp
+
 │
 
 ├── QuizApp.java       // Main class with quiz logic
@@ -30,7 +32,9 @@ Save both QuizApp.java and Question.java in the same folder.
 Open terminal/command prompt.
 
 Compile and run:
+
 javac QuizApp.java
+
 java QuizApp
 
 🧠 Sample Outputs
